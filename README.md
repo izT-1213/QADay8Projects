@@ -1,6 +1,6 @@
 # QADay8Projects
 
-##Assignment 1: Automation on API token page
+## Assignment 1: Automation on API token page
 
 What to do:
 
@@ -17,7 +17,7 @@ Key points:
 
 - You may skip the scenario that is not testable in robot framework
 
-##Assignment 2: Automation on account closing
+## Assignment 2: Automation on account closing
 
 What to do:
 
